@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kidddvenus!
 
-🎨 **Fullstack Software Developer | AI & ML Expert**
+🎨 **Fullstack Software Developer(Android and Web developer) | AI & ML Expert**
 
 👾 Coding isn’t just my profession; it's my hobby and my playground!  
 🦄 Skilled in:
