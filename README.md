@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kidddvenus!
+# 👋 Hi, I'm Reggie!
 
 🎨 **Fullstack Software Developer(Android and Web developer) | AI & ML Expert**
 
