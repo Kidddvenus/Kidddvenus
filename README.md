@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Reggie!
 
-🎨 **Fullstack Software Developer (Android and Web Developer) | AI & ML Expert**
+**Fullstack Software Developer (Mobile and Web Developer) | AI & ML Expert**
 
-👾 Coding isn’t just my profession; it's my hobby and my playground!  
-🦄 **Technical Skills:**
+Coding isn’t just my profession; it's my hobby and my playground!  
+ **Technical Skills:**
 
 <div align="center">
 
